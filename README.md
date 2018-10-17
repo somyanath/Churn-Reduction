@@ -7,8 +7,8 @@ expensive to acquire a new customer than to keep your existing one from leaving.
 problem statement is targeted at enabling churn reduction using analytics concepts.
 
 ## Problem Statement
-The objective of this case is to predict the customer behaviour. The files "Train.csv"
-and "Test.csv" are the dataset that has customer usage pattern and if the customer has
+The objective of this case is to predict the customer behaviour. The files "Train_data.csv"
+and "Test_data.csv" are the dataset that has customer usage pattern and if the customer has
 moved out or not. The objective is to develop an algorithm to predict the churn based on
 usage pattern. The predictors provided are as follows:
 
@@ -32,3 +32,5 @@ usage pattern. The predictors provided are as follows:
 
 ### Target Variable"
 Churn: if the customer has churned (1 = Yes; 0 = No)
+
+### I have included the project report. Soon I'll be uploading the HTML version for the same.
