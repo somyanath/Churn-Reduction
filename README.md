@@ -28,11 +28,5 @@ The objective of this case is to predict customer behaviour. The objective is to
 ### Target Variable:
 Churn: if the customer has churned (1 = Yes; 0 = No)
 
-## File Description:
-##### Train_data.csv:
-training dataset that has customer usage pattern and respective data if the customer has moved out or not
-##### Test_data.csv:
-test dataset that has customer usage pattern and respective data for which we have to predcit the churn. 
-
 ### I have included the project report. 
 ### Soon I'll be uploading the HTML version for the same.
