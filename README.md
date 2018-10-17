@@ -33,8 +33,6 @@ Churn: if the customer has churned (1 = Yes; 0 = No)
 training dataset that has customer usage pattern and respective data if the customer has moved out or not
 ##### Test_data.csv:
 test dataset that has customer usage pattern and respective data for which we have to predcit the churn. 
-##### Report:
-The report describing the complete workflow and analysis of the project.
 
 ### I have included the project report. 
 ### Soon I'll be uploading the HTML version for the same.
