@@ -25,7 +25,7 @@ The objective of this case is to predict customer behaviour. The files "Train_da
 ● total international charge
 ● number of customer service calls made
 
-### Target Variable"
+### Target Variable:
 Churn: if the customer has churned (1 = Yes; 0 = No)
 
 ### I have included the project report. 
