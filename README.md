@@ -33,4 +33,5 @@ usage pattern. The predictors provided are as follows:
 ### Target Variable"
 Churn: if the customer has churned (1 = Yes; 0 = No)
 
-### I have included the project report. Soon I'll be uploading the HTML version for the same.
+### I have included the project report. 
+### Soon I'll be uploading the HTML version for the same.
