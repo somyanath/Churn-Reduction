@@ -2,15 +2,13 @@
 Code for creating a model which can predict Customer Churn.
 
 ## Problem Description
-Churn (loss of customers to competition) is a problem for companies because it is more
-expensive to acquire a new customer than to keep your existing one from leaving. This
-problem statement is targeted at enabling churn reduction using analytics concepts.
+Churn (loss of customers to competition) is a problem for companies because it is more expensive to acquire a new customer than to keep your existing one from leaving. This problem statement is targeted at enabling churn reduction using analytics concepts.
 
 ## Problem Statement
-The objective of this case is to predict the customer behaviour. The files "Train_data.csv"
-and "Test_data.csv" are the dataset that has customer usage pattern and if the customer has
-moved out or not. The objective is to develop an algorithm to predict the churn based on
-usage pattern. The predictors provided are as follows:
+The objective of this case is to predict customer behaviour. The files "Train_data.csv"
+and "Test_data.csv" are the dataset that has customer usage pattern and respective data
+if the customer has moved out or not. The objective is to develop an algorithm to predict 
+the churn based on usage pattern. The predictors provided are as follows:
 
 ● account length
 ● international plan
